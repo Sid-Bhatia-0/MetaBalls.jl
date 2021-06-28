@@ -1,5 +1,6 @@
 module MetaBalls
 
-# Write your package code here.
+include("metaball.jl")
+include("visualize.jl")
 
 end
